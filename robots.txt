@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://foozungae.rasdr.com/sitemap.xml
